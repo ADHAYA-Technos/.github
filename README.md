@@ -10,19 +10,6 @@ ADHYA Tech is a dynamic startup committed to delivering secure, high-performance
 
 Our goal is to design and develop well-secured, high-performance websites, web applications, and mobile apps that adapt to your needs. We accompany you throughout your journey, offering exceptional post-sale support to guarantee satisfaction and success.
 
-## Team
-
-| Name                  | Role                | Email                  | Title      |
-|-----------------------|---------------------|------------------------|------------|
-| Dait Dehane Yacine    | Team Leader         | y.daitdehane@esi-sba.dz| Founder    |
-| Serghine Abdelillah   | Quality Manager     | a.serghine@esi-sba.dz  | Co-Founder |
-| Omari Abdesslam       | Developer           | a.omari@esi-sba.dz     | -          |
-| Benchehida Hamza      | Developer           | h.benchehida@esi-sba.dz| -          |
-| Ouis Farouk           | Developer           | f.ouis@esi-sba.dz      | -          |
-| Boudaoud Djaber       | Developer           | d.boudaoud@esi-sba.dz  | -          |
-
-*Table 1.2 – Members of ADHYA Tech (03/2023)*
-
 ## Projects
 
 ### Drug Prescription Mining: Pattern Analyzer
