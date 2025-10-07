@@ -1,7 +1,6 @@
 # ADHYA Tech
-### LOGO
-![Logo]([https://github.com/ADHAYA-Technos/Automated-Information-Retrieval-and-Summarization-for-Academic-Research-Articles/blob/main/web_interface.png](https://github.com/ADHAYA-Technos/.github/blob/main/Logo.png))
-  - **Description**: ADHAYA TECH Logo
+![Logo](https://github.com/ADHAYA-Technos/.github/blob/main/Logo.png)
+  - **Description**: ADHAYA-TECH's Logo
 
 Welcome to the official GitHub profile of **ADHYA Tech**, a startup specializing in web and mobile software development, founded in 2024 in Sidi Bel Abbes, Algeria, by a team of six computer engineering graduates. This ✨special✨ repository (`ADHAYA-Technos/.github`) serves as our public organization profile, showcasing our mission, team, and projects. Ensure it remains public and initialized with a README in the profile directory to get started.
 
